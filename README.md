@@ -2,15 +2,13 @@
   <img src=".github/images/logo.svg" height="72"/>
 </div>
 
-## 📖 About
+# 📖 About
 
 Gym check-ins API developed using SOLID, TDD, Design Patterns, and other concepts.
 
-This API was developed during Rocketseat's Ignite course, Node.js track.
+Project developed during [Rocketseat's](https://www.rocketseat.com.br/) Ignite course, Node.js trail.
 
-## 🔩 Technologies
-
-These were the main technologies used to develop this API:
+# 🔩 Technologies
 
 - [Fastify](https://fastify.dev/)
 - [Prisma](https://www.prisma.io/)
