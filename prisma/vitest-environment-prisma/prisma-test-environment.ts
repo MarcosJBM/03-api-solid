@@ -1,7 +1,8 @@
 import 'dotenv/config';
 
-import { execSync } from 'child_process';
-import { randomUUID } from 'crypto';
+import { execSync } from 'node:child_process';
+import { randomUUID } from 'node:crypto';
+
 import { Environment } from 'vitest';
 
 import { prisma } from '@/libs';

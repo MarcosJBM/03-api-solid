@@ -4,6 +4,9 @@
   "description": "",
   "main": "prisma-test-environment.ts",
   "keywords": [],
-  "author": "",
+  "author": {
+    "email": "marcosjbotene@gmail.com",
+    "name": "Marcos Botene"
+  },
   "license": "ISC"
 }

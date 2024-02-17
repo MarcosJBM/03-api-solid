@@ -1,5 +1,6 @@
+import { randomUUID } from 'node:crypto';
+
 import { Gym, Prisma } from '@prisma/client';
-import { randomUUID } from 'crypto';
 
 import { getDistanceBetweenCoordinates } from '@/utils';
 
